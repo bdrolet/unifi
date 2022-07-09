@@ -1,0 +1,225 @@
+[2022-07-08T18:18:39,553] <launcher> INFO  system - *** Running for the first time, creating identity ***
+[2022-07-08T18:18:39,562] <launcher> INFO  system - UUID: 0b4ac768-0776-4c44-af01-72968996c0ad
+[2022-07-08T18:18:39,608] <launcher> INFO  system - Reporter UUID: 7ea2005e-0155-4655-bbc7-a8733d3566fe
+[2022-07-08T18:18:40,052] <launcher> INFO  tomcat - Adding basic REST API support during the startup
+[2022-07-08T18:18:40,507] <launcher> INFO  system - Tomcat startup took 811ms
+[2022-07-08T18:18:40,511] <launcher> INFO  db     - New installation, skipping migration
+[2022-07-08T18:18:40,530] <launcher> INFO  tomcat - Adding basic REST API support during the startup
+[2022-07-08T18:18:41,717] <launcher> INFO  db     - waiting for db connection...
+[2022-07-08T18:18:42,903] <db-server> INFO  db     - 2022-07-08T18:18:42.903+0000 I STORAGE  [main] Engine custom option: cache_size=256M
+[2022-07-08T18:18:43,220] <launcher> INFO  db     - Connecting to mongodb://localhost:27117
+[2022-07-08T18:18:43,814] <launcher> INFO  db     - setting mongodb features compatibility version to 3.6
+[2022-07-08T18:18:45,988] <launcher> INFO  system - ======================================================================
+[2022-07-08T18:18:45,989] <launcher> INFO  system - UniFi 7.1.66 (build atag_7.1.66_17875 - release/release) is started
+[2022-07-08T18:18:45,989] <launcher> INFO  system - ======================================================================
+[2022-07-08T18:18:45,990] <launcher> INFO  system - BASE dir:/usr/lib/unifi
+[2022-07-08T18:18:46,038] <launcher> INFO  system - Current System IP: 172.18.0.2
+[2022-07-08T18:18:46,040] <launcher> INFO  system - Hostname: 7eb1da6d524c
+[2022-07-08T18:18:46,041] <launcher> INFO  system - ubic.env: prod
+[2022-07-08T18:18:49,605] <launcher> INFO  productinfo - Using controller channel=RELEASE, firmware channel=RELEASE. Available controller channels=[RELEASE], available firmware channels=[RELEASE]. SSO is disabled.
+[2022-07-08T18:18:50,033] <launcher> INFO  webrtc - WebRTC library version: EvoStream Media Server (www.evostream.com) build v2.9.1 - Gladiator - (built for Debian-8.2.0-x86_64 on 2020-02-05T23:33:19.000) OpenSSL version: 1.1.1d usrsctp version: v0.1.2 compiled on machine: Linux debian-8-2-0-64 3.16.0-6-amd64 #1 SMP Debian 3.16.57-2 (2018-07-14) x86_64 GNU/Linux
+[2022-07-08T18:18:50,567] <launcher> WARN  system - Country Code is not configured for Site with ID=62c8750524aa9a01c511ffb0
+[2022-07-08T18:18:51,273] <launcher> INFO  sdn    - Removed fingerbank token
+[2022-07-08T18:18:52,628] <ModelLifecycleManager-startStop> WARN  dev    - failed to read /usr/lib/unifi/data/model_lifecycles.json - /usr/lib/unifi/data/model_lifecycles.json (No such file or directory)
+[2022-07-08T18:19:53,660] <autoupdate-check> INFO  productinfo - firmware[USC8] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,661] <autoupdate-check> INFO  productinfo - firmware[USAGGPRO] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,662] <autoupdate-check> INFO  productinfo - firmware[UXSDM] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,663] <autoupdate-check> INFO  productinfo - firmware[USXG] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,663] <autoupdate-check> INFO  productinfo - firmware[UXBSDM] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,664] <autoupdate-check> INFO  productinfo - firmware[US24PL2] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,665] <autoupdate-check> INFO  productinfo - firmware[U7PG2] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,666] <autoupdate-check> INFO  productinfo - firmware[US24P500] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,666] <autoupdate-check> INFO  productinfo - firmware[USF5P] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,667] <autoupdate-check> INFO  productinfo - firmware[ULTEPEU] new version (6.0.14.13634) is available
+[2022-07-08T18:19:53,668] <autoupdate-check> INFO  productinfo - firmware[U7IWP] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,668] <autoupdate-check> INFO  productinfo - firmware[US24P250] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,670] <autoupdate-check> INFO  productinfo - firmware[US48P500] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,670] <autoupdate-check> INFO  productinfo - firmware[UAIW6] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,671] <autoupdate-check> INFO  productinfo - firmware[U2Sv2] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,672] <autoupdate-check> INFO  productinfo - firmware[U2HSR] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,673] <autoupdate-check> INFO  productinfo - firmware[S28150] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,673] <autoupdate-check> INFO  productinfo - firmware[US8P150] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,674] <autoupdate-check> INFO  productinfo - firmware[US48P750] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,675] <autoupdate-check> INFO  productinfo - firmware[U7LR] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,676] <autoupdate-check> INFO  productinfo - firmware[UAE6] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,676] <autoupdate-check> INFO  productinfo - firmware[UALR6] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,677] <autoupdate-check> INFO  productinfo - firmware[USL8LP] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,677] <autoupdate-check> INFO  productinfo - firmware[US48] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,678] <autoupdate-check> INFO  productinfo - firmware[US48PRO] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,679] <autoupdate-check> INFO  productinfo - firmware[U2IW] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,679] <autoupdate-check> INFO  productinfo - firmware[U7HD] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,680] <autoupdate-check> INFO  productinfo - firmware[UCKP] new version (2.1.11.a7986ca) is available
+[2022-07-08T18:19:53,681] <autoupdate-check> INFO  productinfo - firmware[S216150] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,681] <autoupdate-check> INFO  productinfo - firmware[S248750] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,682] <autoupdate-check> INFO  productinfo - firmware[BZ2LR] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,683] <autoupdate-check> INFO  productinfo - firmware[USL48] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,683] <autoupdate-check> INFO  productinfo - firmware[UAP6MP] new version (6.2.16.13903) is available
+[2022-07-08T18:19:53,684] <autoupdate-check> INFO  productinfo - firmware[UCKG2] new version (2.1.11.a7986ca) is available
+[2022-07-08T18:19:53,685] <autoupdate-check> INFO  productinfo - firmware[UDM] new version (1.12.22.4309) is available
+[2022-07-08T18:19:53,685] <autoupdate-check> INFO  productinfo - firmware[USL8MP] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,686] <autoupdate-check> INFO  productinfo - firmware[US8P60] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,686] <autoupdate-check> INFO  productinfo - firmware[USL24P] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,687] <autoupdate-check> INFO  productinfo - firmware[US24PRO2] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,688] <autoupdate-check> INFO  productinfo - firmware[UCXG] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,689] <autoupdate-check> INFO  productinfo - firmware[S224500] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,689] <autoupdate-check> INFO  productinfo - firmware[US48PL2] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,690] <autoupdate-check> INFO  productinfo - firmware[UFLHD] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,691] <autoupdate-check> INFO  productinfo - firmware[U7P] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,691] <autoupdate-check> INFO  productinfo - firmware[S224250] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,692] <autoupdate-check> INFO  productinfo - firmware[U5O] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,693] <autoupdate-check> INFO  productinfo - firmware[ULTE] new version (6.0.14.13634) is available
+[2022-07-08T18:19:53,694] <autoupdate-check> INFO  productinfo - firmware[USL48P] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,694] <autoupdate-check> INFO  productinfo - firmware[UGWXG] new version (4.4.56.5449066) is available
+[2022-07-08T18:19:53,695] <autoupdate-check> INFO  productinfo - firmware[U6M] new version (6.2.16.13903) is available
+[2022-07-08T18:19:53,696] <autoupdate-check> INFO  productinfo - firmware[USL16LP] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,696] <autoupdate-check> INFO  productinfo - firmware[U7LT] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,697] <autoupdate-check> INFO  productinfo - firmware[U7SHD] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,698] <autoupdate-check> INFO  productinfo - firmware[US624P] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,698] <autoupdate-check> INFO  productinfo - firmware[US8] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,699] <autoupdate-check> INFO  productinfo - firmware[US24] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,699] <autoupdate-check> INFO  productinfo - firmware[USPRPS] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,700] <autoupdate-check> INFO  productinfo - firmware[UHDIW] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,701] <autoupdate-check> INFO  productinfo - firmware[UDMPRO] new version (1.12.22.4309) is available
+[2022-07-08T18:19:53,701] <autoupdate-check> INFO  productinfo - firmware[US6XG150] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,702] <autoupdate-check> INFO  productinfo - firmware[UXGPRO] new version (1.12.19.4302) is available
+[2022-07-08T18:19:53,702] <autoupdate-check> INFO  productinfo - firmware[UAM6] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,703] <autoupdate-check> INFO  productinfo - firmware[UDMB] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,704] <autoupdate-check> INFO  productinfo - firmware[U7MSH] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,704] <autoupdate-check> INFO  productinfo - firmware[U7NHD] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,705] <autoupdate-check> INFO  productinfo - firmware[UGW3] new version (4.4.56.5449062) is available
+[2022-07-08T18:19:53,705] <autoupdate-check> INFO  productinfo - firmware[US16P150] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,706] <autoupdate-check> INFO  productinfo - firmware[U2O] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,707] <autoupdate-check> INFO  productinfo - firmware[USFXG] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,707] <autoupdate-check> INFO  productinfo - firmware[U7MP] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,708] <autoupdate-check> INFO  productinfo - firmware[U2Lv2] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,708] <autoupdate-check> INFO  productinfo - firmware[UGW4] new version (4.4.56.5449062) is available
+[2022-07-08T18:19:53,709] <autoupdate-check> INFO  productinfo - firmware[USC8P450] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,710] <autoupdate-check> INFO  productinfo - firmware[USL24] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,710] <autoupdate-check> INFO  productinfo - firmware[US68P] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,711] <autoupdate-check> INFO  productinfo - firmware[US48PRO2] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,711] <autoupdate-check> INFO  productinfo - firmware[US24PRO] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,712] <autoupdate-check> INFO  productinfo - firmware[S248500] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,713] <autoupdate-check> INFO  productinfo - firmware[U7IW] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,714] <autoupdate-check> INFO  productinfo - firmware[UBB] new version (2.1.3.31) is available
+[2022-07-08T18:19:53,715] <autoupdate-check> INFO  productinfo - firmware[BZ2] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,715] <autoupdate-check> INFO  productinfo - firmware[U6ENT] new version (6.2.16.13903) is available
+[2022-07-08T18:19:53,716] <autoupdate-check> INFO  productinfo - firmware[UALR6v2] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,717] <autoupdate-check> INFO  productinfo - firmware[USL8A] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,717] <autoupdate-check> INFO  productinfo - firmware[US648P] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,718] <autoupdate-check> INFO  productinfo - firmware[U6EXT] new version (6.2.16.13903) is available
+[2022-07-08T18:19:53,718] <autoupdate-check> INFO  productinfo - firmware[U7EDU] new version (4.3.28.11361) is available
+[2022-07-08T18:19:53,719] <autoupdate-check> INFO  productinfo - firmware[UAL6] new version (6.0.21.13673) is available
+[2022-07-08T18:19:53,719] <autoupdate-check> INFO  productinfo - firmware[USXG24] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,720] <autoupdate-check> INFO  productinfo - firmware[USL16P] new version (6.2.14.13855) is available
+[2022-07-08T18:19:53,721] <autoupdate-check> INFO  productinfo - firmware[USMINI] new version (1.8.5.687) is available
+[2022-07-08T18:19:53,721] <autoupdate-check> INFO  productinfo - firmware[USPPDUP] new version (5.76.7.13442) is available
+[2022-07-08T18:19:53,722] <autoupdate-check> INFO  productinfo - firmware[UCK] new version (1.1.19.f4a17b0) is available
+[2022-07-08T18:19:53,722] <autoupdate-check> INFO  productinfo - firmware[U6IW] new version (6.2.16.13903) is available
+[2022-07-08T18:19:53,723] <autoupdate-check> INFO  productinfo - firmware[UP6] new version (2.2.1.511) is available
+[2022-07-08T18:19:53,723] <autoupdate-check> INFO  productinfo - firmware[UP1] new version (2.2.1.511) is available
+[2022-07-08T18:25:30,129] <webapi-5> WARN  api    - failed to authenticate to SSO: Cloud operation failed! RC=403, error: {"detail":"Invalid credential"}
+[2022-07-08T18:26:09,621] <webapi-5> WARN  api    - failed to authenticate to SSO: Cloud operation failed! RC=403, error: {"detail":"Invalid credential"}
+[2022-07-08T18:28:56,633] <webapi-8> ERROR system - Failed to load file[/usr/lib/unifi/data/backup/autobackup/autobackup_meta.json] as JSON
+java.io.FileNotFoundException: /usr/lib/unifi/data/backup/autobackup/autobackup_meta.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_312]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_312]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_312]
+	at java.io.FileInputStream.<init>(FileInputStream.java:93) ~[?:1.8.0_312]
+	at java.io.FileReader.<init>(FileReader.java:58) ~[?:1.8.0_312]
+	at com.ubnt.data.X.loadJSON(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.service.system.Q.o00000(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.service.system.backup.K.forprivate(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.service.system.backup.K.ÕøO000(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.service.system.command.backup.ListBackupsCmdHandler.doCmd(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.ace.api.ApiUtils.execute(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.ace.api.H.o00000(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.ace.api.ApiServlet.service(Unknown Source) ~[ace.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.58.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at com.ubnt.service.trace.requestmetrics.B.doFilter(Unknown Source) ~[ace.jar:?]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354) ~[spring-web-5.3.15.jar:5.3.15]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267) ~[spring-web-5.3.15.jar:5.3.15]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at com.ubnt.ace.view.AuthFilter.doFilter(Unknown Source) ~[ace.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at com.ubnt.ace.view.UbiosHttpsFilter.doFilter(Unknown Source) ~[ace.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.filters.CorsFilter.handleNonCORS(CorsFilter.java:357) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.filters.CorsFilter.doFilter(CorsFilter.java:176) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at java.lang.Thread.run(Thread.java:748) ~[?:1.8.0_312]
+[2022-07-08T18:31:54,939] <webapi-11> ERROR system - Failed to load file[/usr/lib/unifi/data/backup/autobackup/autobackup_meta.json] as JSON
+java.io.FileNotFoundException: /usr/lib/unifi/data/backup/autobackup/autobackup_meta.json (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_312]
+	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_312]
+	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_312]
+	at java.io.FileInputStream.<init>(FileInputStream.java:93) ~[?:1.8.0_312]
+	at java.io.FileReader.<init>(FileReader.java:58) ~[?:1.8.0_312]
+	at com.ubnt.data.X.loadJSON(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.service.system.Q.o00000(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.service.system.backup.K.forprivate(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.service.system.backup.K.ÕøO000(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.service.system.command.backup.ListBackupsCmdHandler.doCmd(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.ace.api.ApiUtils.execute(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.ace.api.H.o00000(Unknown Source) ~[ace.jar:?]
+	at com.ubnt.ace.api.ApiServlet.service(Unknown Source) ~[ace.jar:?]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764) ~[tomcat-embed-core-9.0.58.jar:4.0.FR]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at com.ubnt.service.trace.requestmetrics.B.doFilter(Unknown Source) ~[ace.jar:?]
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:354) ~[spring-web-5.3.15.jar:5.3.15]
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:267) ~[spring-web-5.3.15.jar:5.3.15]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at com.ubnt.ace.view.AuthFilter.doFilter(Unknown Source) ~[ace.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at com.ubnt.ace.view.UbiosHttpsFilter.doFilter(Unknown Source) ~[ace.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.filters.CorsFilter.handleNonCORS(CorsFilter.java:357) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.filters.CorsFilter.doFilter(CorsFilter.java:176) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) ~[tomcat-embed-core-9.0.58.jar:9.0.58]
+	at java.lang.Thread.run(Thread.java:748) ~[?:1.8.0_312]
